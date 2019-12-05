@@ -1,5 +1,5 @@
 ## Example App
-Open [https://pokeapi-e2f26.web.app/detail/1](https://pokeapi-e2f26.web.app/detail/1) to view this website.
+Open [https://pokeapi-e2f26.web.app](https://pokeapi-e2f26.web.app) to view this website.
 
 ### Disable CORS in Chrome
 #### Mac (Terminal)
