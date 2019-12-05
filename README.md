@@ -1,3 +1,13 @@
+## Example App
+Open [https://pokeapi-e2f26.web.app/detail/1](https://pokeapi-e2f26.web.app/detail/1) to view this website.
+
+### Disable CORS in Chrome
+#### Mac (Terminal)
+```
+open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
+```
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
